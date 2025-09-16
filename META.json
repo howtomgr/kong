@@ -1,0 +1,61 @@
+{
+  "category": "api-gateways",
+  "created_date": "2025-09-15T22:48:57.949819",
+  "default_ports": [
+    80,
+    443,
+    8000
+  ],
+  "dependencies": [],
+  "description": "kong is a free and open-source API gateway. Kong provides cloud-native API gateway built on nginx",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/api-gateways/kong",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/api-gateways/kong",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.949845",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "kong",
+  "repository_url": "https://github.com/howtomgr/kong",
+  "spec_version": "2.0",
+  "subcategory": "api-gateways",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "api-gateways",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "kong Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/api-gateways/kong"
+}
